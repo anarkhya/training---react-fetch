@@ -1,1 +1,1 @@
-# training
+just training
